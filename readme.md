@@ -52,7 +52,7 @@ To install the required libraries, use the following:
         
         python dataframe_training.py
 
-after running the above command change the path of dataframe in in flask_integration.py
+  after running the above command change the path of dataframe in in flask_integration.py
 
 4.  To run the Flask app:
         
