@@ -8,15 +8,15 @@ The project contains a single Python script that handles everything from feature
 
 House_Room_Dataset/
 
-├── Bedroom/
-
-├── Bathroom/
-
-├── Dining/
-
-├── Kitchen/
-
-└── Livingroom/
+        ├── Bedroom/
+        
+        ├── Bathroom/
+        
+        ├── Dining/
+        
+        ├── Kitchen/
+        
+        └── Livingroom/
 
 
 ## Features
