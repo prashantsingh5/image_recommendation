@@ -6,17 +6,17 @@ This project implements an image recommendation system for house rooms such as b
 
 The project contains a single Python script that handles everything from feature extraction to image recommendation and hosting a Flask web API.
 
-House_Room_Dataset/
-
-        ├── Bedroom/
+        House_Room_Dataset/
         
-        ├── Bathroom/
-        
-        ├── Dining/
-        
-        ├── Kitchen/
-        
-        └── Livingroom/
+                ├── Bedroom/
+                        
+                ├── Bathroom/
+                        
+                ├── Dining/
+                        
+                ├── Kitchen/
+                        
+                └── Livingroom/
 
 
 ## Features
