@@ -6,6 +6,8 @@ This project implements an image recommendation system for house rooms such as b
 
 The project contains a single Python script that handles everything from feature extraction to image recommendation and hosting a Flask web API.
 
+Dataset Structure:
+
         House_Room_Dataset/
         
                 ├── Bedroom/
@@ -58,3 +60,8 @@ To install the required libraries, use the following:
         
         python flask_integration.py
 
+# Output
+
+Image of sample output is given below.
+
+![WhatsApp Image 2024-10-17 at 2 29 53 PM](https://github.com/user-attachments/assets/795e8918-bde8-4bb7-b48f-db6584700b07)
