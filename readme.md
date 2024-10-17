@@ -42,23 +42,19 @@ To install the required libraries, use the following:
 
 1.  Clone the repository:
    
-        ```bash
         git clone https://github.com/your-repository/image-recommendation.git
 
 2.  Install the required dependencies:
 
-        ```bash
         pip install -r requirements.txt
 
 3.  Train and extract image features by running the dataframe_training.py script:
         
-        ```bash
         python dataframe_training.py
 
 after running the above command change the path of dataframe in in flask_integration.py
 
 4.  To run the Flask app:
         
-        ```bash
         python flask_integration.py
 
