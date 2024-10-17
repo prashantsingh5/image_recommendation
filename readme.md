@@ -36,10 +36,12 @@ The project contains a single Python script that handles everything from feature
 - **Flask API Integration**: 
   Provides a web API to accept user-uploaded images and return recommendations.
 
-## Dependencies
+## Installation and Setup
 
 To install the required libraries, use the following:
 
+1.  Clone the repository:
+   
 ```bash
-pip install -r requirements.txt
+git clone https://github.com/your-repository/image-recommendation.git
 
